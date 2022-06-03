@@ -2,18 +2,22 @@
 
 掌握 vim 的语法
 
-操作（operator） + 动词（范围）
-
+操作符（operator） + 动作（范围）
 
 ## 练习
 
-
 ```js
-function getNameById(name){
-	return 
+function setNameById(name){
+
+
 }
 ```
 you're good man
+
+
+sdlkjf
+
+sldkfjkdj
 
 
 
